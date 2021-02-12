@@ -4,13 +4,13 @@
 機械学習を用いた文字認識は主にCNNを用いた方法と、文字の特徴を選択し、識別する方法があることがわかった。そのため本実験では、上記の2つの方法で実験を行い、どのような差があるのか調べる。また、どのような学習方法や処理を行うことで文字認識をしているのか、精度を上げる方法はあるのかを実験し調べる。
 
 # 環境 
-macOS Catelina version 10.15.7  
-Python               3.7.6  
-pip                  21.0.1  
-numpy                1.19.0  
-matplotlib           3.3.0  
-tensorflow           2.2.0  
-tensorflow.keras     2.3.0-tf  
+macOS Catelina version :10.15.7  
+Python                 :3.7.6  
+pip                    :21.0.1  
+numpy                  :1.19.0  
+matplotlib             :3.3.0  
+tensorflow             :2.2.0  
+tensorflow.keras       :2.3.0-tf  
 
 
 ###### This is an H6
