@@ -19,10 +19,10 @@
 特徴量選択
 >#環境名を「hogehuga」として作成する場合。  
 >conda create -n hogehuga python=3.7  
-
+>  
 >#環境をhogehugaに変更  
 >conda activate hogehuga  
-
+>  
 >#必要なpackageをinstall。  
 >pip install sklearn  
 >pip install emnist  
