@@ -16,6 +16,10 @@ keras                  2.3.0
 
 ## 実行方法
 
+データセット
+> MNIST <http://yann.lecun.com/exdb/mnist/>
+
+
 深層学習
 >引用引用　　
 
