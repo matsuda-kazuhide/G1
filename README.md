@@ -49,7 +49,7 @@ nal_G1_test2.pyを実行
 
 特徴量選択  
 
-KNN.pyはknnを用いて学習する
+KNN.pyはknnを用いて学習する\n
 SGD.pyはSGDを用いて学習する
 L-DC特徴を用いる場合は"for_dcf"のコメントアウトを外して実行
 明度を特徴量として用いる場合は"for_origin"のコメントアウトを外して実行
