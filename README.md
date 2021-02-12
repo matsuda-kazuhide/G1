@@ -10,8 +10,9 @@ pip                    21.0.1
 numpy                  1.19.0  
 matplotlib             3.3.0  
 tensorflow             2.2.0  
-tensorflow.keras       2.3.0-tf  
+keras                  2.3.0   
 
+# 環境
 
 ###### This is an H6
 
